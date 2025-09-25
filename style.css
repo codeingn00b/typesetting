@@ -60,7 +60,7 @@ body {
 }
 
 h1 {
-  font-family: "Tinos", cursive; /* h1 用特殊字體 */
+  font-family: "Tinos", cursive; 
   font-weight: 400;
   font-size: 3.2rem;
   text-align: center;
@@ -69,7 +69,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: "Tinos", sans-serif; /* h2~h6 */
+  font-family: "Tinos", sans-serif; 
   font-weight: 700;
   font-size: 2.4rem;
   letter-spacing: 0.05rem;
